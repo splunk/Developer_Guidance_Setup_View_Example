@@ -44,10 +44,10 @@ And finally the `setup_page.js` imports a custom Backbone view from the `appserv
 # Screen Shots
 
 ![Log-In Screen](/screenshots/01-login.png "Log-In Screen")  
-![Select App](02-select_app.png "Select App")  
-![Begin Setup](03-begin_setup.png "Begin Setup")  
-![Setup View Landing Page](04-setup_view_landing_page.png "Setup View Landing Page")  
-![Empty Inputs](05-empty_inputs.png "Empty Inputs")  
-![Http Inputs](06-http_input.png "Http Input")  
-![Valid Inputs](07-valid_inputs.png "Valid Inputs")  
-![Final Landing Page](08-final_landing_page.png "Final Landing Page")  
+![Select App](/screenshots/02-select_app.png "Select App")  
+![Begin Setup](/screenshots/03-begin_setup.png "Begin Setup")  
+![Setup View Landing Page](/screenshots/04-setup_view_landing_page.png "Setup View Landing Page")  
+![Empty Inputs](/screenshots/05-empty_inputs.png "Empty Inputs")  
+![Http Inputs](/screenshots/06-http_input.png "Http Input")  
+![Valid Inputs](/screenshots/07-valid_inputs.png "Valid Inputs")  
+![Final Landing Page](/screenshots/08-final_landing_page.png "Final Landing Page")  
