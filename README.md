@@ -10,7 +10,7 @@ Splunk will automatically try to redirect the user to the setup page if the `app
 
 This program starts in the `app.conf`, where the `[install]` stanza's `is_configured` property is set to `false`. This causes Splunk to redirect to it's setup page that is specified so that an admin/user can configure it for use.
 
-This program starts in the `app.conf`'s, `[ui]` stanza's `setup_view` property points to which resource should be used for the setup view. In this case it's pointing to `default/data/ui/views/setup_view_dashboard.xml`.
+In the `app.conf`'s, `[ui]` stanza there is a `setup_view` property that points to which resource should be used for the setup view. In this case it's pointing to `default/data/ui/views/setup_view_dashboard.xml`.
 
 The dashboard view specifies its CSS and JavaScript resources and points to the two file in `appserver/static/javascript/setup_page.js` and `appserver/static/styles/setup_page.css`.
 
